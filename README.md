@@ -110,20 +110,7 @@ To train the LSTM model, run the `from_scratch.ipynb` notebook. It includes:
 
 ---
 
-## Results
 
-### GPT-2 Fine-tuning:
-- **Top-3 Accuracy**: 0.02  
-- **BLEU Score**: 0.00  
-- **Perplexity**: NaN  
-
-### LSTM Model:
-- **Top-5 Accuracy**: 0.00%  
-- **Top-20 Accuracy**: 0.00%  
-- **BLEU Score**: 0.0000  
-- **Perplexity**: NaN  
-
----
 
 ## Contributing
 
