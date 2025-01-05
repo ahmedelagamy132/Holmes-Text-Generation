@@ -18,7 +18,6 @@ The project includes preprocessing, model training, evaluation, and text generat
 - [Usage](#usage)  
 - [Model Training](#model-training)  
 - [Evaluation](#evaluation)  
-- [Results](#results)  
 - [Contributing](#contributing)  
 - [License](#license)  
 - [Dataset Documentation](#dataset-documentation)  
