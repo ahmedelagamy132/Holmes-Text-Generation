@@ -1,0 +1,8 @@
+tensorflow>=2.0
+transformers
+nltk
+numpy
+pandas
+matplotlib
+wordcloud
+networkx
